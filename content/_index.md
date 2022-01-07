@@ -43,12 +43,12 @@ The workshop will be held online.
 
 ## Schedule
 
-All times are in **Europe/Stockholm time (CEST)**. ([Convert 9:00 to
-your timezone](https://arewemeetingyet.com/Stockholm/2021-05-10/09:00))
+All times are in **US Eastern time (EST)**. ([Convert 10:00 to
+your timezone](https://arewemeetingyet.com/America/New_York/2022-01-27/10:00))
 The schedule includes frequent breaks.
 
 **Exercise leader onboarding**
-- TBA (Wednesday) 12:00-13:00 CET ([timezone converter](https://arewemeetingyet.com/Stockholm/2021-05-05/12:00))
+- TBA (Wednesday) 12:00-13:00 CET ([timezone converter](https://arewemeetingyet.com/America/New_York/2022-01-27/10:00))
 - TBA (Thursday) 12:00-13:00 CET] ([timezone converter](https://arewemeetingyet.com/Stockholm/2021-05-06/12:00))
 
 **Installation help and verification times** (drop in)
@@ -56,56 +56,24 @@ The schedule includes frequent breaks.
 - TBA (Thursday) 13:00-14:00 CET   ([timezone converter](https://arewemeetingyet.com/Stockholm/2021-05-06/13:00))
 
 **Day 1 (date, weekday)**
-- 8:50 - 9:00 connecting time, icebreaker
-- 9:00 - 9:20
+- 9:50 - 10:00 connecting time, icebreaker
+- 10:00 - 10:30
   [Welcome and practical information](https://github.com/coderefinery/workshop-intro/blob/master/README.md)
   (TBA)
-- 9:20 - 12:30
-  [Introduction to version control - part 1/2](https://coderefinery.github.io/git-intro/) ("Motivation" to "Undoing")
-  (TBA)
+- 10:00 - 10:30
+  [Branching and merging](https://coderefinery.github.io/git-intro/06-branches/)
+- 10:30 - 11:00
+  [Conflict resolution](https://coderefinery.github.io/git-intro/08-conflicts/)
+- 11:00 - noon
+  [Git branch design](https://coderefinery.github.io/git-branch-design/)
 
 **Day 2 (date, weekday)**
-- 8:50 - 9:00 connecting time, icebreaker
-- 9:00 - 12:30
-  [Introduction to version control - part 2/2](https://coderefinery.github.io/git-intro/) ("Branching and merging" to "Inspecting history")
-  (TBA)
-
-**Day 3 (date, weekday)**
-- 8:50 - 9:00 connecting time, icebreaker
-- 9:00 - 12:30
-  [Collaborative distributed version control](https://coderefinery.github.io/git-collaborative/)
-  (TBA)
-
-**Day 4 (date, weekday)**
-- 8:50 - 9:00 connecting time, icebreaker
-- 9:00 - 9:15
-  [Mini-intro](https://github.com/coderefinery/workshop-intro/blob/master/README.md)
-  (TBA)
-- 9:00 - 11:15
-  [Reproducible research and FAIR data](https://coderefinery.github.io/reproducible-research/)
-  (TBA)
-- 11:15 - 12:30
-  [Social coding and open software](https://coderefinery.github.io/social-coding/)
-  (TBA)
-
-**Day 5 (date, weekday)**
-- 8:50 - 9:00 connecting time, icebreaker
-- 9:00 - 10:45
-  [Jupyter](https://coderefinery.github.io/jupyter/)
-  (TBA)
-- 10:45 - 12:30
-  [Documentation](https://coderefinery.github.io/documentation/)
-  (TBA)
-
-**Day 6 (date, weekday)**
-- 8:50 - 9:00 connecting time, icebreaker
-- 9:00 - 10:45
-  [Software testing](https://coderefinery.github.io/testing/)
-  (TBA)
-- 11:00 - 12:15
-  [Modular code development](https://coderefinery.github.io/modular-type-along/)
-  (TBA)
-- 12:15 - 12:30
+- 9:50 - 10:00 connecting time, icebreaker
+- 10:00 - 11:00
+  [Collaboration via centralized workflow](https://coderefinery.github.io/git-collaborative/02-centralized/)
+- 11:00 - noon
+  [Collaboration via distributed version control and forking workflow](https://coderefinery.github.io/git-collaborative/03-distributed/)
+- noon - 12:15
   [Concluding remarks and where to go from here](https://github.com/coderefinery/workshop-outro/blob/master/README.md)
   (TBA)
 
