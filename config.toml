@@ -2,7 +2,7 @@
 
 # this variable has to be set but it is not used
 # inside the templates (end in '/')
-base_url = "https://coderefinery.github.io/template-workshop-webpage/"
+base_url = "https://pages.nist.gov/2022-01-27-nist-branching-online-test/"
 
 title = "Git Branching"
 
