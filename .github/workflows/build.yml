@@ -67,13 +67,14 @@ jobs:
             echo -n ${{ env.CNAME }} > public/CNAME
             echo "Used CNAME from the action workflow file"
         fi
-    - name: Deploy to gh-pages
+    - name: Deploy to nist-pages
       if: ${{ github.event_name == 'push' && github.ref == format('refs/heads/{0}', env.MAIN_BRANCH) && ( env.DEPLOY_ORGANIZATION == '' || github.repository_owner == env.DEPLOY_ORGANIZATION ) }}
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./public
         force_orphan: true
+        publish_branch: nist-pages  # default: gh-pages        
     #- name: Commit and push to target branch
     #  if: github.ref == 'refs/heads/{{ env.MAIN_BRANCH }}'
     #  run: |-
