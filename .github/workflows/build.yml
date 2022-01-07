@@ -14,7 +14,7 @@ name: Build/deploy website
 env:
   ZOLA_VERSION: "0.13.0"
   MAIN_BRANCH: "main"
-  TARGET_BRANCH: "gh-pages"
+  TARGET_BRANCH: "nist-pages"
   #DEPLOY_ORGANIZATION: ""
   #CNAME: xxx   # or make a CNAME in the root
 
