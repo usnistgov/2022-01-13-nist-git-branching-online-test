@@ -59,7 +59,6 @@ The schedule includes frequent breaks.
 - 9:50 - 10:00 connecting time, icebreaker
 - 10:00 - 10:30
   [Welcome and practical information](https://github.com/coderefinery/workshop-intro/blob/master/README.md)
-  (TBA)
 - 10:00 - 10:30
   [Branching and merging](https://coderefinery.github.io/git-intro/06-branches/)
 - 10:30 - 11:00
@@ -75,29 +74,19 @@ The schedule includes frequent breaks.
   [Collaboration via distributed version control and forking workflow](https://coderefinery.github.io/git-collaborative/03-distributed/)
 - noon - 12:15
   [Concluding remarks and where to go from here](https://github.com/coderefinery/workshop-outro/blob/master/README.md)
-  (TBA)
 
 
 #### Contact
 
-- <support@coderefinery.org>
+- <guyer@nist.gov>
 
 #### Coordinators
 
-- TBA
-
-
-#### Host
-
-- TBA
+- Jon Guyer <guyer@nist.gov>
+- Chandler Becker <chandler.becker@nist.gov>
 
 
 #### Instructors and expert helpers
 
-- TBA
+- Jon Guyer <guyer@nist.gov
 
-#### Exercise leaders :heart:
-
-[Be an exercise leader](volunteer/).
-
-- TBA
