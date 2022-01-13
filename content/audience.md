@@ -21,10 +21,6 @@ Are you doing any of these things below:
 "professional code developers" or computer scientists, or to make you
 one.
 
-You can register with your friends/group as a **team** and you'll work
-together in breakout rooms, and you'll be able to work together after
-the course as well.
-
 
 
 ## What we will not teach
@@ -36,12 +32,3 @@ applies to any programming language, though our default language for
 examples is Python (but we do have examples in other languages, too).
 
 
-
-## Be an exercise leader
-
-Do you know some of the topics, but want to review them, why not
-attend as an exercise leader?  You don't need to be an expert: if you
-have been through CodeRefinery once or have some familiarity with the
-topics, and you are confident to call an expert helper when needed, then you
-have all it takes to lead a team to success.  [Read more
-here](../volunteer/).
