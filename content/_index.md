@@ -23,9 +23,7 @@ software.
 
 This is an informal and interactive event with type-along lessons,
 live coding, and exercises. Learners are divided into exercise teams for
-interactivity - register with a friend!  If you feel a bit more
-confident in the material, you can [register as an exercise
-leader](volunteer/).
+interactivity - register with a friend! 
 
 The workshop will be held online.
 
@@ -47,15 +45,11 @@ All times are in **US Eastern time (EST)**. ([Convert 10:00 to
 your timezone](https://arewemeetingyet.com/America/New_York/2022-01-27/10:00))
 The schedule includes frequent breaks.
 
-**Exercise leader onboarding**
-- TBA (Wednesday) 12:00-13:00 CET ([timezone converter](https://arewemeetingyet.com/America/New_York/2022-01-27/10:00))
-- TBA (Thursday) 12:00-13:00 CET] ([timezone converter](https://arewemeetingyet.com/Stockholm/2021-05-06/12:00))
-
 **Installation help and verification times** (drop in)
-- TBA (Wednesday) 13:00-14:00 CET] ([timezone converter](https://arewemeetingyet.com/Stockholm/2021-05-05/13:00))
-- TBA (Thursday) 13:00-14:00 CET   ([timezone converter](https://arewemeetingyet.com/Stockholm/2021-05-06/13:00))
+- https://meet.google.com/wfc-ruxf-joq (Wednesday) 13:00-14:00 CET] ([timezone converter](https://arewemeetingyet.com/America/New_York/2022-01-25/13:00))
+- https://meet.google.com/wfc-ruxf-joq (Thursday) 13:00-14:00 CET   ([timezone converter](https://arewemeetingyet.com/America/New_York/2022-01-26/13:00))
 
-**Day 1 (date, weekday)**
+**Day 1 (January 27th, Thursday)**
 - 9:50 - 10:00 connecting time, icebreaker
 - 10:00 - 10:30
   [Welcome and practical information](https://github.com/coderefinery/workshop-intro/blob/master/README.md)
@@ -66,7 +60,7 @@ The schedule includes frequent breaks.
 - 11:00 - noon
   [Git branch design](https://coderefinery.github.io/git-branch-design/)
 
-**Day 2 (date, weekday)**
+**Day 2 (January 28th, Friday)**
 - 9:50 - 10:00 connecting time, icebreaker
 - 10:00 - 11:00
   [Collaboration via centralized workflow](https://coderefinery.github.io/git-collaborative/02-centralized/)
@@ -88,5 +82,5 @@ The schedule includes frequent breaks.
 
 #### Instructors and expert helpers
 
-- Jon Guyer <guyer@nist.gov
+- Jon Guyer <guyer@nist.gov>
 
