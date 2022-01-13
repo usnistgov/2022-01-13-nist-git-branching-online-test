@@ -26,11 +26,11 @@ external_links_target_blank = true
 navigation = [
     { name = "About/Schedule", path = "" },
     { name = "Audience", path = "audience/" },
-    { name = "How to join", path = "join/" },
+#    { name = "How to join", path = "join/" },
     { name = "Requirements", path = "requirements/" },
     { name = "Q&A", path = "questions/" },
     { name = "Code of Conduct", path = "https://coderefinery.org/about/code-of-conduct/" },
-    { name = "Volunteer", path = "volunteer/" }
+#    { name = "Volunteer", path = "volunteer/" }
 ]
 
 twitter_image = "https://raw.githubusercontent.com/coderefinery/coderefinery.org/main/content/logo/coderefinery.png"
@@ -44,11 +44,11 @@ logos = [
 
 # adapt this
 registration_link = "https://example.org"
-source_repo = "https://github.com/coderefinery/template-workshop-webpage"
+source_repo = "https://github.com/usnistgov/2022-01-27-nist-branching-online-test"
 
 # uncomment as soon as registration opens
 # registration_is_open = true
 
 # uncomment as soon as registration closes
-# registration_is_closed = true
+registration_is_closed = true
 
