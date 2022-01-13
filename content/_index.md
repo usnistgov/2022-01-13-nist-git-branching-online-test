@@ -28,12 +28,8 @@ interactivity - register with a friend!
 The workshop will be held online.
 
 * You can attend by registering and
-  receiving the Zoom link, which lets you take part in teams and
-  breakout rooms. (limited places)
-
-* Anyone may also attend via the livestream at
-  [twitch.tv/coderefinery](https://twitch.tv/coderefinery).  If you
-  register, you can get emails and link to ask questions.
+  receiving the meeting link, which lets you take part in teams and
+  breakout rooms.
 
 **Before signing** up please also read
 [this privacy note about tools/services we use](requirements/#privacy-and-tools-online-services).
@@ -46,8 +42,8 @@ your timezone](https://arewemeetingyet.com/America/New_York/2022-01-27/10:00))
 The schedule includes frequent breaks.
 
 **Installation help and verification times** (drop in)
-- https://meet.google.com/wfc-ruxf-joq (Wednesday) 13:00-14:00 CET] ([timezone converter](https://arewemeetingyet.com/America/New_York/2022-01-25/13:00))
-- https://meet.google.com/wfc-ruxf-joq (Thursday) 13:00-14:00 CET   ([timezone converter](https://arewemeetingyet.com/America/New_York/2022-01-26/13:00))
+- TBD (Wednesday) 13:00-14:00 CET] ([timezone converter](https://arewemeetingyet.com/America/New_York/2022-01-25/13:00))
+- TBD (Thursday) 13:00-14:00 CET   ([timezone converter](https://arewemeetingyet.com/America/New_York/2022-01-26/13:00))
 
 **Day 1 (January 27th, Thursday)**
 - 9:50 - 10:00 connecting time, icebreaker
