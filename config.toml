@@ -43,11 +43,11 @@ logos = [
 ]
 
 # adapt this
-registration_link = "https://example.org"
+registration_link = "https://docs.google.com/forms/d/e/1FAIpQLSe-Qn-OudndCzBPaoVnbwrcNnH0h9ng_uEnxcBYErpD58FJsA/viewform?usp=sf_link"
 source_repo = "https://github.com/usnistgov/2022-01-27-nist-branching-online-test"
 
 # uncomment as soon as registration opens
-# registration_is_open = true
+registration_is_open = true
 
 # uncomment as soon as registration closes
 # registration_is_closed = true
