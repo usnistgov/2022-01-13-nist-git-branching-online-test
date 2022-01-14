@@ -2,13 +2,6 @@
 title = "Schedule"
 +++
 
-<div class="alert alert-info">
-<span style="color:darkred;font-weight:bold">News:</span>
-
-* Registration will open soon.
-
-</div>
-
 ## Course goals
 
 In this course, you will become familiar with tools and best practices
