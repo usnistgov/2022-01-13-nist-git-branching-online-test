@@ -29,7 +29,7 @@ navigation = [
 #    { name = "How to join", path = "join/" },
     { name = "Requirements", path = "requirements/" },
     { name = "Q&A", path = "questions/" },
-    { name = "Code of Conduct", path = "https://coderefinery.org/about/code-of-conduct/" }
+    { name = "Code of Conduct", path = "https://coderefinery.org/about/code-of-conduct/" },
 #    { name = "Volunteer", path = "volunteer/" }
 ]
 
@@ -39,7 +39,7 @@ twitter_image = "https://raw.githubusercontent.com/coderefinery/coderefinery.org
 # the image file(s) need to be placed in content/logos
 logos = [
 #   { alt_text = "CodeRefinery logo", target_url = "https://coderefinery.org/", image = "coderefinery.png" },
-    { alt_text = "CodeRefinery logogogo", target_url = "https://coderefinery.org/", image = "coderefinery.png" }
+    { alt_text = "CodeRefinery logo", target_url = "https://coderefinery.org/", image = "coderefinery.png" }
 ]
 
 # adapt this
