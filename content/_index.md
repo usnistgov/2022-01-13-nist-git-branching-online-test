@@ -72,4 +72,6 @@ The schedule includes frequent breaks.
 #### Instructors and expert helpers
 
 - Jon Guyer <guyer@nist.gov>
+- Randall McDermott <randall.mcdermott@nist.gov>
+- Daniel Wheeler <daniel.wheeler@nist.gov>
 
