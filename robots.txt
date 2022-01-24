@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pages.nist.gov/2022-01-27-nist-branching-online/sitemap.xml

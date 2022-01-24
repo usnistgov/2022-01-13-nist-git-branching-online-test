@@ -1,0 +1,251 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="https://pages.nist.gov/2022-01-27-nist-branching-online/img/favicon.ico">
+
+    
+      <title>Git Branching</title>
+      <meta name="twitter:title" content="Git Branching" />
+    
+
+    
+      <meta name="description" content="" />
+      <meta name="twitter:description" content="" />
+    
+
+    
+      <meta name="twitter:card" content="summary" />
+      <meta name="twitter:image" content="https://raw.githubusercontent.com/coderefinery/coderefinery.org/main/content/logo/coderefinery.png" />
+    
+
+    <!-- bootstrap -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.0/font/bootstrap-icons.css">
+
+    <!-- font -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="https://pages.nist.gov/2022-01-27-nist-branching-online/css/style.css" rel="stylesheet">
+  </head>
+
+  <body>
+    <main role="main">
+      <div class="container">
+
+        <div class="row top-buffer">
+          <div class="col-sm-12">
+            <h1>Git Branching</h1>
+          </div>
+        </div>
+
+        <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #e3f2fd;">
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+              
+                
+                  <a class="nav-link" href="https://pages.nist.gov/2022-01-27-nist-branching-online">About&#x2F;Schedule</a>
+                
+              
+                
+                  <a class="nav-link" href="https://pages.nist.gov/2022-01-27-nist-branching-online/audience">Audience</a>
+                
+              
+                
+                  <a class="nav-link" href="https://pages.nist.gov/2022-01-27-nist-branching-online/requirements">Requirements</a>
+                
+              
+                
+                  <a class="nav-link" href="https://pages.nist.gov/2022-01-27-nist-branching-online/questions">Q&amp;A</a>
+                
+              
+                
+                  <a class="nav-link" href="https://coderefinery.org/about/code-of-conduct/">Code of Conduct</a>
+                
+              
+            </ul>
+          </div>
+        </nav>
+
+        <div class="row top-buffer">
+          <div class="col-sm-10">
+            
+  
+
+    
+      
+        <a class="btn btn-success" href="https://docs.google.com/forms/d/e/1FAIpQLSe-Qn-OudndCzBPaoVnbwrcNnH0h9ng_uEnxcBYErpD58FJsA/viewform?usp=sf_link" data-mode="1" target="_blank">Register here</a>
+      
+    
+
+    <h2 id="course-goals">Course goals</h2>
+<p>In this course, you will become familiar with tools and best practices
+for scientific software development.  We don't teach programming, but we teach the tools you need
+to do programming well and avoid common inefficiency traps.
+The tools we teach are
+practically a requirement for any scientist that has to do their own programming. The main
+focus is on using Git for efficiently writing and maintaining research
+software.</p>
+<h2 id="format">Format</h2>
+<p>This is an informal and interactive event with type-along lessons,
+live coding, and exercises. Learners are divided into exercise teams for
+interactivity - register with a friend! </p>
+<p>The workshop will be held online.</p>
+<ul>
+<li>You can attend by registering and
+receiving the meeting link, which lets you take part in teams and
+breakout rooms.</li>
+</ul>
+<p><strong>Before signing</strong> up please also read
+<a href="requirements/#privacy-and-tools-online-services">this privacy note about tools/services we use</a>.</p>
+<h2 id="schedule">Schedule</h2>
+<p>All times are in <strong>US Eastern time (EST)</strong>. (<a rel="noopener" target="_blank" href="https://arewemeetingyet.com/America/New_York/2022-01-27/10:00">Convert 10:00 to
+your timezone</a>)
+The schedule includes frequent breaks.</p>
+<p><strong>Installation help and verification times</strong> (drop in)</p>
+<ul>
+<li>TBD (Wednesday) 13:00-14:00 CET] (<a rel="noopener" target="_blank" href="https://arewemeetingyet.com/America/New_York/2022-01-25/13:00">timezone converter</a>)</li>
+<li>TBD (Thursday) 13:00-14:00 CET   (<a rel="noopener" target="_blank" href="https://arewemeetingyet.com/America/New_York/2022-01-26/13:00">timezone converter</a>)</li>
+</ul>
+<p><strong>Day 1 (January 27th, Thursday)</strong></p>
+<ul>
+<li>9:50 - 10:00 connecting time, icebreaker</li>
+<li>10:00 - 10:30
+<a rel="noopener" target="_blank" href="https://github.com/coderefinery/workshop-intro/blob/master/README.md">Welcome and practical information</a></li>
+<li>10:00 - 10:30
+<a rel="noopener" target="_blank" href="https://coderefinery.github.io/git-intro/06-branches/">Branching and merging</a></li>
+<li>10:30 - 11:00
+<a rel="noopener" target="_blank" href="https://coderefinery.github.io/git-intro/08-conflicts/">Conflict resolution</a></li>
+<li>11:00 - noon
+<a rel="noopener" target="_blank" href="https://coderefinery.github.io/git-branch-design/">Git branch design</a></li>
+</ul>
+<p><strong>Day 2 (January 28th, Friday)</strong></p>
+<ul>
+<li>9:50 - 10:00 connecting time, icebreaker</li>
+<li>10:00 - 11:00
+<a rel="noopener" target="_blank" href="https://coderefinery.github.io/git-collaborative/02-centralized/">Collaboration via centralized workflow</a></li>
+<li>11:00 - noon
+<a rel="noopener" target="_blank" href="https://coderefinery.github.io/git-collaborative/03-distributed/">Collaboration via distributed version control and forking workflow</a></li>
+<li>noon - 12:15
+<a rel="noopener" target="_blank" href="https://github.com/coderefinery/workshop-outro/blob/master/README.md">Concluding remarks and where to go from here</a></li>
+</ul>
+<h4 id="contact">Contact</h4>
+<ul>
+<li><a href="mailto:guyer@nist.gov">guyer@nist.gov</a></li>
+</ul>
+<h4 id="coordinators">Coordinators</h4>
+<ul>
+<li>Jon Guyer <a href="mailto:guyer@nist.gov">guyer@nist.gov</a></li>
+<li>Chandler Becker <a href="mailto:chandler.becker@nist.gov">chandler.becker@nist.gov</a></li>
+</ul>
+<h4 id="instructors-and-expert-helpers">Instructors and expert helpers</h4>
+<ul>
+<li>Jon Guyer <a href="mailto:guyer@nist.gov">guyer@nist.gov</a></li>
+<li>Trevor Keller <a href="mailto:trevor.keller@nist.gov">trevor.keller@nist.gov</a></li>
+<li>Randall McDermott <a href="mailto:randall.mcdermott@nist.gov">randall.mcdermott@nist.gov</a></li>
+<li>Daniel Wheeler <a href="mailto:daniel.wheeler@nist.gov">daniel.wheeler@nist.gov</a></li>
+</ul>
+
+  
+  
+
+          </div>
+          <div class="col-sm-2">
+            
+            <a href="https:&#x2F;&#x2F;coderefinery.org&#x2F;">
+              <img src="https://pages.nist.gov/2022-01-27-nist-branching-online/processed_images/7f4da91af0b900d100.png" alt="CodeRefinery logo"
+                style="margin-top: 25px;">
+            </a>
+            
+          </div>
+        </div>
+
+      </div>
+    </main>
+
+    <!-- footer -->
+    <footer class="text-muted">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg">
+            <p>
+              <strong>Funding</strong>
+            </p>
+            <p>
+              CodeRefinery is a project within the
+              <a href="https://neic.no">Nordic e-Infrastructure Collaboration</a> (NeIC).
+              NeIC is an organisational unit under <a href="http://www.nordforsk.org/en">NordForsk</a>.
+            </p>
+          </div>
+          <div class="col-lg">
+            <p>
+              <strong>Privacy</strong>
+            </p>
+            <p>
+              <a href="https://coderefinery.org/privacy-policy/">Privacy policy</a>
+            </p>
+          </div>
+          <div class="col-lg">
+            <p>
+              <strong>Follow us</strong>
+            </p>
+            <p>
+              <a href="https://github.com/coderefinery" class="social">
+                <i class="bi bi-github" style="font-size: 2rem; color: black;"></i>
+              </a>
+
+              <a href="https://twitter.com/coderefine"  class="social" >
+                <i class="bi bi-twitter" style="font-size: 2rem; color: cornflowerblue;"></i>
+              </a>
+            </p>
+          </div>
+          <div class="col-lg">
+            <p>
+              <strong>Contact</strong>
+            </p>
+            <p>
+              <a href="mailto:support@coderefinery.org">support@coderefinery.org</a>
+            </p>
+          </div>
+          <div class="col-lg">
+            <p>
+              <strong>Improve this page</strong>
+            </p>
+            <p>
+              <a href="https://github.com/usnistgov/2022-01-27-nist-branching-online">Source code</a>
+            </p>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- end footer -->
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+      integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+      crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx"
+      crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/anchor-js@4.2.2/anchor.min.js"
+      integrity="sha256-E4RlfxwyJVmkkk0szw7LYJxuPlp6evtPSBDlWHsYYL8=" crossorigin="anonymous"></script>
+    <script>
+      anchors.add();
+
+      // https://github.com/twbs/bootstrap/issues/1768#issuecomment-6531466
+      var shiftWindow = function () { scrollBy(0, -100) };
+      if (location.hash) shiftWindow();
+      window.addEventListener("hashchange", shiftWindow);
+    </script>
+
+  </body>
+</html>
