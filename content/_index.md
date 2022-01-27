@@ -27,6 +27,7 @@ The workshop will be held online.
 **Before signing** up please also read
 [this privacy note about tools/services we use](requirements/#privacy-and-tools-online-services).
 
+**Collaborative Document**: https://pad.carpentries.org/2022-01-27-nist-branching-online
 
 ## Schedule
 
